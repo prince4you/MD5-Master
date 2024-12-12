@@ -13,9 +13,6 @@
   <li>✔️ <b>Cross-Platform</b>: Works on Linux, Termux, and Windows environments.</li>
 </ul>
 
-Sunil bhai, dependencies ko clearly mention karna zaruri hai. Main ab description me dependencies ka ek section properly add kar deta hoon jo tumhare tool ke liye helpful hoga. Ye updated version hai:
-
-
 ---
 
 🌟 Hash Hunter - MD5 Hash Cracking Tool 🌟
